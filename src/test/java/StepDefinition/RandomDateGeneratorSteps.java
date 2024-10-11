@@ -15,7 +15,7 @@ public class RandomDateGeneratorSteps {
 
     @Given("I open the random date generator page")
     public void i_open_the_random_date_generator_page() {
-        driver.get("https://www.example.com/random-date-generator");
+        driver.get("https://codebeautify.org/generate-random-date");
     }
 
     @When("I enter {string} in the field")
