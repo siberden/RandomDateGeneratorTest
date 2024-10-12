@@ -4,8 +4,8 @@ Feature: Random Date Generator
   Scenario Outline: Generate random dates with invalid input
     Given I open the random date generator page
     When I enter <value> in the field
-    And I enter <start_date> as start date
-    And I enter <end_date> as end date
+    And I enter "<start_date>" as start date
+    And I enter "<end_date>" as end date
     And I click the generate button
 
     Examples:

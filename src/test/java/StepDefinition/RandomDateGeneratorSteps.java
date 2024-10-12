@@ -25,18 +25,18 @@ public class RandomDateGeneratorSteps {
         driver.findElement(By.xpath("//*[@id=\"count\"]")).sendKeys(String.valueOf(value));
     }
 
-    @And("I enter {int} as start date")
-    public void i_enter_as_start_date(int startDate) {
-        driver.findElement(By.xpath("//*[@id=\"start\"]")).sendKeys(String.valueOf(startDate));
-    }
-
-    @And("I enter {int} as end date")
-    public void i_enter_as_end_date(int endDate) {
-        driver.findElement(By.xpath("//*[@id=\"end\"]")).sendKeys(String.valueOf(endDate));
-    }
-
     @And("I click the generate button")
     public void i_click_the_generate_button() {
         driver.findElement(By.xpath("//*[@id=\"app\"]/section[2]/div/div[2]/button[1]/span")).click();
+    }
+
+    @And("I enter {string} as start date")
+    public void iEnterAsStartDate(String startDate) {
+        driver.findElement(By.xpath("//*[@id=\"start\"]")).sendKeys(String.valueOf(startDate));
+    }
+
+    @And("I enter {string} as end date")
+    public void iEnterAsEndDate(String endDate) {
+        driver.findElement(By.xpath("//*[@id=\"end\"]")).sendKeys(String.valueOf(endDate));
     }
 }
