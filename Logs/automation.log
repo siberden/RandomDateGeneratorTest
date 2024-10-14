@@ -1,0 +1,117 @@
+2024-10-13 20:14:00 [main] INFO  Hooks:27 - ===============================================================================
+2024-10-13 20:14:00 [main] INFO  Hooks:28 - |     Demo is Starting...
+2024-10-13 20:14:00 [main] INFO  Hooks:29 - |     Environment : https://codebeautify.org/generate-random-date
+2024-10-13 20:14:00 [main] INFO  Hooks:30 - |     Operating System : Windows 11
+2024-10-13 20:14:00 [main] INFO  Hooks:31 - |     Browser: chromeHeadless
+2024-10-13 20:14:00 [main] INFO  Hooks:32 - |     Tested by: Berkuk
+2024-10-13 20:14:00 [main] INFO  Hooks:33 - ===============================================================================
+
+2024-10-13 20:14:00 [main] INFO  WebDriverManager:1220 - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+2024-10-13 20:14:00 [main] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\karac\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+2024-10-13 20:14:01 [main] INFO  Hooks:48 - ===============================================================
+2024-10-13 20:14:01 [main] INFO  Hooks:49 - |          Scenario Name: User should be able to generate dates with given details
+2024-10-13 20:14:01 [main] INFO  Hooks:50 - ===============================================================
+2024-10-13 20:14:34 [main] INFO  RandomDataGeneratorPage:29 - User in on the Random Data Generator page
+2024-10-13 20:14:34 [main] INFO  RandomDataGeneratorPage:41 - Entered count: 4
+2024-10-13 20:14:34 [main] INFO  RandomDataGeneratorPage:62 - Clicked on the Generate button
+2024-10-13 20:14:34 [main] INFO  RandomDataGeneratorPage:102 - Selected date format: MM-DD-YYYY hh:mm:ss
+2024-10-13 20:14:35 [main] INFO  RandomDataGeneratorPage:52 - Entered start date: 2024-10-01 00:00:00
+2024-10-13 20:14:35 [main] INFO  RandomDataGeneratorPage:57 - Entered end date: 2024-12-31 23:59:59
+2024-10-13 20:14:35 [main] INFO  RandomDataGeneratorPage:90 -  
+Random date generated: [04-08-2084 09:22:22, 05-26-2040 11:13:31, 12-03-2094 01:15:35, 09-16-2040 04:51:13]
+2024-10-13 20:14:35 [main] INFO  Driver:84 - driver closed
+2024-10-13 20:14:35 [main] INFO  WebDriverManager:1220 - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+2024-10-13 20:14:35 [main] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\karac\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+2024-10-13 20:14:36 [main] INFO  Hooks:48 - ===============================================================
+2024-10-13 20:14:36 [main] INFO  Hooks:49 - |          Scenario Name: User should be able to generate dates for the given count
+2024-10-13 20:14:36 [main] INFO  Hooks:50 - ===============================================================
+2024-10-13 20:15:05 [main] INFO  RandomDataGeneratorPage:29 - User in on the Random Data Generator page
+2024-10-13 20:15:05 [main] INFO  RandomDataGeneratorPage:41 - Entered count: 2
+2024-10-13 20:15:05 [main] INFO  RandomDataGeneratorPage:62 - Clicked on the Generate button
+2024-10-13 20:15:05 [main] INFO  RandomDataGeneratorPage:90 -  
+Random date generated: [12-18-2059, 03-09-2067]
+2024-10-13 20:15:05 [main] INFO  Driver:84 - driver closed
+2024-10-13 20:15:05 [main] INFO  WebDriverManager:1220 - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+2024-10-13 20:15:05 [main] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\karac\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+2024-10-13 20:15:06 [main] INFO  Hooks:48 - ===============================================================
+2024-10-13 20:15:06 [main] INFO  Hooks:49 - |          Scenario Name: User should be able to generate dates for the given count
+2024-10-13 20:15:06 [main] INFO  Hooks:50 - ===============================================================
+2024-10-13 20:15:06 [main] INFO  RandomDataGeneratorPage:29 - User in on the Random Data Generator page
+2024-10-13 20:15:07 [main] INFO  RandomDataGeneratorPage:41 - Entered count: 4
+2024-10-13 20:15:07 [main] INFO  RandomDataGeneratorPage:62 - Clicked on the Generate button
+2024-10-13 20:15:07 [main] INFO  RandomDataGeneratorPage:90 -  
+Random date generated: [01-17-2051, 12-13-2074, 10-22-2040, 03-07-2043]
+2024-10-13 20:15:07 [main] INFO  Driver:84 - driver closed
+2024-10-13 20:15:07 [main] INFO  WebDriverManager:1220 - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+2024-10-13 20:15:07 [main] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\karac\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+2024-10-13 20:15:08 [main] INFO  Hooks:48 - ===============================================================
+2024-10-13 20:15:08 [main] INFO  Hooks:49 - |          Scenario Name: User should be able to generate dates for the given count
+2024-10-13 20:15:08 [main] INFO  Hooks:50 - ===============================================================
+2024-10-13 20:15:37 [main] INFO  RandomDataGeneratorPage:29 - User in on the Random Data Generator page
+2024-10-13 20:15:37 [main] INFO  RandomDataGeneratorPage:41 - Entered count: 7
+2024-10-13 20:15:37 [main] INFO  RandomDataGeneratorPage:62 - Clicked on the Generate button
+2024-10-13 20:15:37 [main] INFO  RandomDataGeneratorPage:90 -  
+Random date generated: [11-11-2064, 07-08-2051, 08-21-2049, 03-25-2041, 08-12-2031, 09-10-2027, 08-10-2048]
+2024-10-13 20:15:37 [main] INFO  Driver:84 - driver closed
+2024-10-13 20:15:37 [main] INFO  WebDriverManager:1220 - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+2024-10-13 20:15:37 [main] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\karac\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+2024-10-13 20:15:38 [main] INFO  Hooks:48 - ===============================================================
+2024-10-13 20:15:38 [main] INFO  Hooks:49 - |          Scenario Name: User should not be able to generate dates with invalid input
+2024-10-13 20:15:38 [main] INFO  Hooks:50 - ===============================================================
+2024-10-13 20:16:06 [main] INFO  RandomDataGeneratorPage:29 - User in on the Random Data Generator page
+2024-10-13 20:16:06 [main] INFO  RandomDataGeneratorPage:47 - Entered count: 5.01
+2024-10-13 20:16:07 [main] ERROR RandomDataGeneratorPage:77 - The value '5.01' is not an integer.
+2024-10-13 20:16:07 [main] INFO  Driver:84 - driver closed
+2024-10-13 20:16:07 [main] INFO  WebDriverManager:1220 - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+2024-10-13 20:16:07 [main] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\karac\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+2024-10-13 20:16:08 [main] INFO  Hooks:48 - ===============================================================
+2024-10-13 20:16:08 [main] INFO  Hooks:49 - |          Scenario Name: User should not be able to generate dates with invalid input
+2024-10-13 20:16:08 [main] INFO  Hooks:50 - ===============================================================
+2024-10-13 20:16:35 [main] INFO  RandomDataGeneratorPage:29 - User in on the Random Data Generator page
+2024-10-13 20:16:35 [main] INFO  RandomDataGeneratorPage:47 - Entered count: 5.000000000000001
+2024-10-13 20:16:35 [main] ERROR RandomDataGeneratorPage:77 - The value '5.000000000000001' is not an integer.
+2024-10-13 20:16:36 [main] INFO  Driver:84 - driver closed
+2024-10-13 20:16:36 [main] INFO  WebDriverManager:1220 - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+2024-10-13 20:16:36 [main] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\karac\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+2024-10-13 20:16:37 [main] INFO  Hooks:48 - ===============================================================
+2024-10-13 20:16:37 [main] INFO  Hooks:49 - |          Scenario Name: User should not be able to generate dates with invalid input: "start date should be before end date"
+2024-10-13 20:16:37 [main] INFO  Hooks:50 - ===============================================================
+2024-10-13 20:16:37 [main] INFO  RandomDataGeneratorPage:29 - User in on the Random Data Generator page
+2024-10-13 20:16:37 [main] INFO  RandomDataGeneratorPage:41 - Entered count: 4
+2024-10-13 20:16:37 [main] INFO  RandomDataGeneratorPage:62 - Clicked on the Generate button
+2024-10-13 20:16:37 [main] INFO  RandomDataGeneratorPage:52 - Entered start date: 2099-12-31 23:59:59
+2024-10-13 20:16:37 [main] INFO  RandomDataGeneratorPage:57 - Entered end date: 2020-01-01 00:00:00
+2024-10-13 20:16:37 [main] INFO  RandomDataGeneratorPage:62 - Clicked on the Generate button
+2024-10-13 20:16:38 [main] INFO  Driver:84 - driver closed
+2024-10-13 20:16:38 [main] INFO  WebDriverManager:1220 - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+2024-10-13 20:16:38 [main] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\karac\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+2024-10-13 20:16:38 [main] INFO  Hooks:48 - ===============================================================
+2024-10-13 20:16:38 [main] INFO  Hooks:49 - |          Scenario Name: User should not be able to generate dates with invalid input: "count of dates should be positive"
+2024-10-13 20:16:38 [main] INFO  Hooks:50 - ===============================================================
+2024-10-13 20:17:03 [main] INFO  RandomDataGeneratorPage:29 - User in on the Random Data Generator page
+2024-10-13 20:17:03 [main] INFO  RandomDataGeneratorPage:41 - Entered count: -1
+2024-10-13 20:17:03 [main] INFO  RandomDataGeneratorPage:62 - Clicked on the Generate button
+2024-10-13 20:17:03 [main] INFO  RandomDataGeneratorPage:52 - Entered start date: 2020-01-01 00:00:00
+2024-10-13 20:17:03 [main] INFO  RandomDataGeneratorPage:57 - Entered end date: 2099-12-31 23:59:59
+2024-10-13 20:17:03 [main] INFO  RandomDataGeneratorPage:62 - Clicked on the Generate button
+2024-10-13 20:17:04 [main] INFO  Driver:84 - driver closed
+2024-10-13 20:17:04 [main] INFO  WebDriverManager:1220 - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+2024-10-13 20:17:04 [main] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\karac\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+2024-10-13 20:17:04 [main] INFO  Hooks:48 - ===============================================================
+2024-10-13 20:17:04 [main] INFO  Hooks:49 - |          Scenario Name: Random date generator should follow the given data output format
+2024-10-13 20:17:04 [main] INFO  Hooks:50 - ===============================================================
+2024-10-13 20:17:14 [main] INFO  RandomDataGeneratorPage:29 - User in on the Random Data Generator page
+2024-10-13 20:17:14 [main] INFO  RandomDataGeneratorPage:41 - Entered count: 1
+2024-10-13 20:17:14 [main] INFO  RandomDataGeneratorPage:62 - Clicked on the Generate button
+2024-10-13 20:17:14 [main] INFO  RandomDataGeneratorPage:102 - Selected date format: YYYY-MM-DD hh:mm:ss
+2024-10-13 20:17:14 [main] INFO  Driver:84 - driver closed
+2024-10-13 20:17:14 [main] INFO  WebDriverManager:1220 - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+2024-10-13 20:17:14 [main] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\karac\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+2024-10-13 20:17:15 [main] INFO  Hooks:48 - ===============================================================
+2024-10-13 20:17:15 [main] INFO  Hooks:49 - |          Scenario Name: Random date generator should follow the given data output format
+2024-10-13 20:17:15 [main] INFO  Hooks:50 - ===============================================================
+2024-10-13 20:17:15 [main] INFO  RandomDataGeneratorPage:29 - User in on the Random Data Generator page
+2024-10-13 20:17:16 [main] INFO  RandomDataGeneratorPage:41 - Entered count: 1
+2024-10-13 20:17:18 [main] INFO  RandomDataGeneratorPage:62 - Clicked on the Generate button
+2024-10-13 20:17:18 [main] INFO  RandomDataGeneratorPage:102 - Selected date format: MM-DD-YYYY hh:mm:ss
+2024-10-13 20:17:19 [main] INFO  Driver:84 - driver closed
